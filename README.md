@@ -14,3 +14,6 @@ Python 3.x
 pandas
 matplotlib
 VS Code (or Jupyter Notebook)
+
+
+![Image](https://github.com/user-attachments/assets/82817cce-b568-4e72-b40a-e6c1fab9c0ce)
